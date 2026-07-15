@@ -2,3 +2,8 @@ class student{
 String name;
 int id;
 }
+class employee{
+string name;
+int id;
+int salary;
+}
