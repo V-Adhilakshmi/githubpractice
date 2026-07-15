@@ -7,3 +7,7 @@ string name;
 int id;
 int salary;
 }
+class 1{
+string name;
+int id;
+}
