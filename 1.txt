@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 story 2
 java class is completed
+=======
+story1
+java class is very good
+>>>>>>> Stashed changes
