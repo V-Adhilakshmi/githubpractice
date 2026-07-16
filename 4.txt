@@ -1,4 +1,4 @@
-class employee4{
+class student{
 string name;
 int id;
 }
